@@ -1,5 +1,5 @@
-# project-19
-RBC Capital Market's crypto-receivables platform.
+# Banking Cryptocurrency Receivables Financing Platform
+Mock RBC Capital Market's crypto-receivables platform.
 
 ## Quick start
 ### Installation
